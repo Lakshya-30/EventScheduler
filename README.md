@@ -1,6 +1,6 @@
 # event_scheduler
 
-A new Flutter project.
+An event scheduler application made using Flutter.
 
 ## Getting Started
 
